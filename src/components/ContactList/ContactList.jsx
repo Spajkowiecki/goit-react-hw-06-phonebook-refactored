@@ -1,5 +1,3 @@
-import PropTypes from 'prop-types';
-
 import style from './ContactList.module.css';
 import Contact from '../Contact/Contact';
 import { removeContact } from '../../redux/reducers';

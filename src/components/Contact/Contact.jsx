@@ -1,6 +1,5 @@
 import PropTypes from 'prop-types';
 import style from './Contact.module.css';
-import { useSelector } from 'react-redux';
 
 //! refactored Contact class to function
 export default function Contact({ contact, children }) {
@@ -21,7 +20,3 @@ export default function Contact({ contact, children }) {
     </div>
   );
 }
-
-Contact.propTypes = {
-  contact: PropTypes.object.isRequired,
-};
