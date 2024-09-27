@@ -1,10 +1,10 @@
 {
-  "name": "goit-react-hw-06-phonebook",
+  "name": "goit-react-hw-06-phonebook-refactored",
   "author": "Patryk Karolczak",
   "description": "Refactored phonebook from homework 4",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://spajkowiecki.github.io/goit-react-hw-06-phonebook/",
+  "homepage": "https://spajkowiecki.github.io/goit-react-hw-06-phonebook-refactored/",
   "dependencies": {
     "@redux-devtools/extension": "^3.3.0",
     "@reduxjs/toolkit": "^2.2.7",
