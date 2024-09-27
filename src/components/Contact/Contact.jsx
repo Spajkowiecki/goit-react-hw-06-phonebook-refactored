@@ -1,4 +1,3 @@
-import PropTypes from 'prop-types';
 import style from './Contact.module.css';
 
 //! refactored Contact class to function
